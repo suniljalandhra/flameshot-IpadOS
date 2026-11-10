@@ -1,0 +1,13 @@
+# Xcode
+DerivedData/
+build/
+*.xcuserstate
+xcuserdata/
+*.xcodeproj/project.xcworkspace/xcshareddata/swiftpm/
+.swiftpm/
+Packages/EmberKit/.build/
+
+# Reference material (large, not ours)
+*.dmg
+
+.DS_Store
